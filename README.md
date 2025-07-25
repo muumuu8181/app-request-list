@@ -55,7 +55,13 @@ AIが以下の順序で処理：
 - ⏳ **待機中**: 1件
 
 ## 📚 関連ドキュメント
+
+### 🏆 最重要（必読）
 - [🚀 **START_HERE.md**](START_HERE.md) - **AI開発者向けガイド（迷った時はここ）**
+- [🏆 **PRIORITY_RULES.md**](PRIORITY_RULES.md) - **優先ルールシステム（1-10段階）**
+
+### 🔧 運用ルール
+- [📝 アプリ要求記述ルール](APP_REQUEST_FORMAT_RULES.md) - 記述形式の統一
 - [🚨緊急ID衝突回避ワークフロー](EMERGENCY_CONFLICT_RESOLUTION.md) - ID重複時の緊急対応手順
 
 ### 参考資料（通常は不要）
