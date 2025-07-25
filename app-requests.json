@@ -1,0 +1,24 @@
+{
+  "requests": [
+    {
+      "id": "money-management-001",
+      "title": "お金管理システム",
+      "priority": "high",
+      "requirements": [
+        "収入と支出を入力できること",
+        "入力された値は後から編集できること", 
+        "CSVとしてデータをDLできること"
+      ],
+      "tech_preferences": ["HTML", "JavaScript", "CSS"],
+      "estimated_complexity": "medium",
+      "created_date": "2025-01-25",
+      "notes": "シンプルな家計簿アプリとして実装"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-01-25",
+    "total_requests": 1,
+    "description": "AI自動化ワークフロー用アプリ要求リスト"
+  }
+}
