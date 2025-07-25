@@ -56,6 +56,12 @@
 - reflection.mdの詳細記述（REFLECTION_GUIDE.md準拠）
 - 作業監視ツールの使用義務
 
+#### RULE-06-002: ドキュメント命名規約
+- タイトルに重要度レベルを明記
+- 形式: `[L10] 絶対ルール: ファイル名`
+- 形式: `[L7] 構造ルール: ファイル名`
+- 例: `[L10] PRIORITY_RULES.md`、`[L7] APP_REQUEST_FORMAT_RULES.md`
+
 ---
 
 ### 🛠️ レベル5（技術ルール）
