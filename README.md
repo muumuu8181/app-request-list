@@ -37,11 +37,28 @@ AIが以下の順序で処理：
 3. 1プロジェクト完了まで実行
 4. 完了後は次の項目へ自動進行
 
+### 作業継続・確認
+- **途中停止時**: 「y」で作業継続
+- **完了時**: GitHub Pages URLをブラウザで確認
+- **Android Tablet**: open-termuxでブラウザ起動可能
+
+### 🚨 緊急対応（重要）
+**デプロイ前に必ずID衝突チェックを実行**
+- 既存アプリとIDが重複していないか確認
+- 衝突時は新しいIDまたは名前変更で回避
+- 詳細: [緊急ID衝突回避ワークフロー](EMERGENCY_CONFLICT_RESOLUTION.md)
+
 ## 現在のリクエスト
 - 📋 **総数**: 1件
 - ✅ **完了**: 0件  
 - 🔄 **処理中**: 0件
 - ⏳ **待機中**: 1件
+
+## 📚 関連ドキュメント
+- [AI学習・改善機能仕様書](AI_LEARNING_SPECIFICATION.md) - 継続的学習・改善メカニズム
+- [アプリID管理仕様書](APP_ID_MANAGEMENT_SPECIFICATION.md) - 複数AI並行実行時のID重複防止
+- [柔軟なID管理システム](FLEXIBLE_ID_MANAGEMENT.md) - 自由度と堅牢性の両立
+- [🚨緊急ID衝突回避ワークフロー](EMERGENCY_CONFLICT_RESOLUTION.md) - ID重複時の緊急対応手順
 
 ---
 *このリポジトリはAI自動化ワークフローシステムによって監視されています*

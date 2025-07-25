@@ -1,0 +1,42 @@
+{
+  "registry": {
+    "calculator": {
+      "id": "001",
+      "name": "電卓アプリ",
+      "keywords": [
+        "電卓",
+        "計算",
+        "四則演算",
+        "calculator"
+      ],
+      "created_date": "2025-01-25"
+    },
+    "time-management": {
+      "id": "002",
+      "name": "時間管理アプリ",
+      "keywords": [
+        "時間",
+        "タイマー",
+        "スケジュール",
+        "予定",
+        "ポモドーロ"
+      ],
+      "created_date": "2025-01-25"
+    },
+    "money-management": {
+      "id": "003",
+      "name": "お金管理アプリ",
+      "keywords": [
+        "お金",
+        "家計",
+        "収支",
+        "財務",
+        "予算",
+        "家計簿"
+      ],
+      "created_date": "2025-01-25"
+    }
+  },
+  "next_available_id": "004",
+  "last_updated": "2025-07-25T20:20:00.462Z"
+}
