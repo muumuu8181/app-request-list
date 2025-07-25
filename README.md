@@ -55,10 +55,13 @@ AIが以下の順序で処理：
 - ⏳ **待機中**: 1件
 
 ## 📚 関連ドキュメント
-- [AI学習・改善機能仕様書](AI_LEARNING_SPECIFICATION.md) - 継続的学習・改善メカニズム
-- [アプリID管理仕様書](APP_ID_MANAGEMENT_SPECIFICATION.md) - 複数AI並行実行時のID重複防止
-- [柔軟なID管理システム](FLEXIBLE_ID_MANAGEMENT.md) - 自由度と堅牢性の両立
+- [🚀 **START_HERE.md**](START_HERE.md) - **AI開発者向けガイド（迷った時はここ）**
 - [🚨緊急ID衝突回避ワークフロー](EMERGENCY_CONFLICT_RESOLUTION.md) - ID重複時の緊急対応手順
+
+### 参考資料（通常は不要）
+- [AI学習・改善機能仕様書](docs/AI_LEARNING_SPECIFICATION.md) - 継続的学習・改善メカニズム
+- [アプリID管理仕様書](docs/APP_ID_MANAGEMENT_SPECIFICATION.md) - 複数AI並行実行時のID重複防止
+- [柔軟なID管理システム](docs/FLEXIBLE_ID_MANAGEMENT.md) - 自由度と堅牢性の両立
 
 ---
 *このリポジトリはAI自動化ワークフローシステムによって監視されています*
